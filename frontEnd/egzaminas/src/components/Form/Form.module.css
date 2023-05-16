@@ -1,0 +1,21 @@
+.loginForm {
+    display: block;
+    text-align: center;
+    width: 50%;
+    background-color: rgba(128, 128, 128, 0.473);
+    margin: auto;
+    padding: 50px 20px 50px 20px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+input {
+    width: 250px;
+    margin: 20px 0 20px 0;
+    outline: none;
+}
+
+button {
+    width: 100px;
+    padding: 10px 0 10px 0;
+}

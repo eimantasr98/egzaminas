@@ -1,0 +1,12 @@
+.createdClient {
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    align-items: baseline;
+    margin-left: 50px;
+    padding-left: 40px;
+    background-color: rgba(128, 128, 128, 0.473);
+    width: 50%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
